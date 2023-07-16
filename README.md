@@ -1,5 +1,5 @@
 
-### Olá!👋 Sou um estudante dedicado de Tecnologia em Análise e Desenvolvimento de Sistemas, apaixonado pelo mundo da programação e em busca constante de aprimorar meus conhecimentos. Atualmente, estou focado em aprofundar minhas habilidades em JavaScript, HTML e CSS, fundamentais para o desenvolvimento de aplicações web interativas e responsivas.
+### Olá!👋 Sou um estudante de Tecnologia em Análise e Desenvolvimento de Sistemas, apaixonado pelo mundo da programação e em busca de aprimorar meus conhecimentos. Atualmente, estou focado em aprofundar minhas habilidades em JavaScript, HTML e CSS, fundamentais para o desenvolvimento de aplicações web interativas e responsivas.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naldo19limaa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erinaldo-ferreira-lima-9a79b9214/)
